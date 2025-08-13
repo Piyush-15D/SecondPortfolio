@@ -20,6 +20,7 @@ jobs:
         name: website-files
         path: |
           portfolio.html
+          styles.css
 
 
   deploy:
